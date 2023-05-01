@@ -1,5 +1,5 @@
 # IoT-Smart-Grid
-To run this project on Arduino IDE, copy and paste the .INO file to your IDE.
+To run this project on Arduino IDE, follow the following steps
 
 connect your components to your Arduino board.(Follow the connection of the model representation diagram).
  
