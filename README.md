@@ -1,4 +1,7 @@
 # IoT-Smart-Grid
+
+Iot smart grid is a grid model that has been intergrated with sensors to provide communication in the grid inorder to allow for rerouting of power incase of power loss.
+
 To run this project on Arduino IDE, follow the following steps
 
 connect your components to your Arduino board.(Follow the connection of the model representation diagram).
